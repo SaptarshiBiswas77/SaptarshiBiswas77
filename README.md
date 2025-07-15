@@ -16,7 +16,7 @@
 
 - 👨‍🎓 Pursuing **B.Tech in Computer Science and Business Systems**  
 - 🏫 **Narula Institute of Technology, Kolkata**  
-- 🌐 Interested in **Web Development & Machine Learning**  
+- 🌐 Interested in **Web Development **  
 - 🚀 Love building **practical applications** that solve real problems  
 - 📫 **Reach me at:** saptarshibiswas842@gmail.com  
 
