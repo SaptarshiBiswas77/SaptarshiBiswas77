@@ -8,11 +8,7 @@
 
 ---
 
-## 🕹️ **Pac-Man Contribution Graph**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saptarshibiswas77/saptarshibiswas77/output/dist/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
-</p>
 
 ---
 
